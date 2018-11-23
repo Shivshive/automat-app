@@ -1,18 +1,23 @@
 <div class="home">
   <div class="center">
-    
 
-  <h1>{{vm.greet}}</h1>
-      <p>
-        Welcome to
-        <a href="#" class="js-external-link">Automat App</a> running on this
-        <strong>{{vm.os}}</strong> machine.
-      </p>
-      <p>
-        App author:
-        <strong>{{vm.author}}</strong>
-      </p>
 
+    <h1>{{vm.greet}}</h1>
+    <p>
+      Welcome to
+      <a href="#" class="js-external-link">Automat App</a> running on this
+      <strong>{{vm.os}}</strong> machine.
+    </p>
+    <p>
+      App author:
+      <strong>{{vm.author}}</strong>
+    </p>
+    <p>
+      Click on New Script button to start capturing a script task.
+    </p>
+    <p>
+      Press <strong>Control+F10</strong> keys to stop capturing.
+    </p>
     <p>
       <md-button md-no-ink class="md-primary" ng-click="vm.newScript($event)">New Script</md-button>
       <md-button md-no-ink class="md-primary" ng-click="vm.runScript()">Run Script</md-button>

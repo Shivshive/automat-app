@@ -33,7 +33,8 @@ const setApplicationMenu = () => {
   }
   Menu.setApplicationMenu(Menu.buildFromTemplate(menus));
 };
-console.log(process.version)
+console.log('process version :', process.version);
+console.log('process module version', process.versions ? process.versions.modules : '');
 // Save userData in separate folders for each environment.
 // Thanks to this you can use production and development versions of the app
 // on same machine like those are two separate apps.
