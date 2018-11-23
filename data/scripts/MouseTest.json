@@ -1,0 +1,3021 @@
+[
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 426,
+    "y": 440,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 1107
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 424,
+    "y": 441,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 422,
+    "y": 444,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 419,
+    "y": 445,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 418,
+    "y": 445,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 417,
+    "y": 448,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 416,
+    "y": 449,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 413,
+    "y": 450,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 410,
+    "y": 453,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 407,
+    "y": 456,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 403,
+    "y": 458,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 400,
+    "y": 460,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 397,
+    "y": 462,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 396,
+    "y": 463,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 393,
+    "y": 467,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 390,
+    "y": 468,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 389,
+    "y": 471,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 386,
+    "y": 474,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 383,
+    "y": 476,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 382,
+    "y": 477,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 381,
+    "y": 477,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 380,
+    "y": 478,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 379,
+    "y": 478,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 376,
+    "y": 479,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 16
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 376,
+    "y": 480,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 375,
+    "y": 480,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 372,
+    "y": 480,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 368,
+    "y": 478,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 359,
+    "y": 475,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 352,
+    "y": 469,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 337,
+    "y": 461,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 325,
+    "y": 455,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 15
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 313,
+    "y": 447,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 301,
+    "y": 439,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 296,
+    "y": 435,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 289,
+    "y": 429,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 14
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 282,
+    "y": 421,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 279,
+    "y": 417,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 274,
+    "y": 412,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 266,
+    "y": 404,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 265,
+    "y": 400,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 262,
+    "y": 397,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 260,
+    "y": 391,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 257,
+    "y": 386,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 252,
+    "y": 377,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 252,
+    "y": 373,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 249,
+    "y": 362,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 247,
+    "y": 356,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 245,
+    "y": 347,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 245,
+    "y": 341,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 245,
+    "y": 335,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 245,
+    "y": 329,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 245,
+    "y": 324,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 245,
+    "y": 318,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 246,
+    "y": 310,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 247,
+    "y": 303,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 247,
+    "y": 297,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 249,
+    "y": 291,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 251,
+    "y": 285,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 254,
+    "y": 280,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 257,
+    "y": 275,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 260,
+    "y": 269,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 265,
+    "y": 262,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 13
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 270,
+    "y": 257,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 280,
+    "y": 248,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 16
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 282,
+    "y": 245,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 13
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 287,
+    "y": 240,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 2
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 291,
+    "y": 233,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 298,
+    "y": 228,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 302,
+    "y": 225,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 309,
+    "y": 221,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 316,
+    "y": 216,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 325,
+    "y": 212,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 330,
+    "y": 209,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 331,
+    "y": 209,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 333,
+    "y": 208,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 335,
+    "y": 207,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 336,
+    "y": 207,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 337,
+    "y": 207,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 338,
+    "y": 207,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 339,
+    "y": 207,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 342,
+    "y": 209,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 345,
+    "y": 210,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 349,
+    "y": 213,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 352,
+    "y": 218,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 357,
+    "y": 224,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 362,
+    "y": 227,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 14
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 365,
+    "y": 234,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 2
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 373,
+    "y": 241,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 377,
+    "y": 246,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 385,
+    "y": 256,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 393,
+    "y": 266,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 403,
+    "y": 276,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 418,
+    "y": 287,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 428,
+    "y": 297,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 438,
+    "y": 307,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 451,
+    "y": 317,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 461,
+    "y": 330,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 472,
+    "y": 340,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 485,
+    "y": 355,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 500,
+    "y": 370,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 513,
+    "y": 386,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 526,
+    "y": 401,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 544,
+    "y": 417,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 13
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 554,
+    "y": 427,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 3
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 567,
+    "y": 439,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 21
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 577,
+    "y": 449,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 1
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 589,
+    "y": 460,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 602,
+    "y": 473,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 0
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 615,
+    "y": 485,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 16
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 625,
+    "y": 498,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 2
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 633,
+    "y": 505,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 648,
+    "y": 516,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 1
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 663,
+    "y": 529,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 678,
+    "y": 542,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 693,
+    "y": 551,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 713,
+    "y": 562,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 731,
+    "y": 571,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 746,
+    "y": 579,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 755,
+    "y": 583,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 19
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 767,
+    "y": 591,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 1
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 779,
+    "y": 597,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 3
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 791,
+    "y": 601,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 800,
+    "y": 605,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 16
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 812,
+    "y": 607,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 823,
+    "y": 607,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 0
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 837,
+    "y": 607,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 848,
+    "y": 607,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 859,
+    "y": 607,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 867,
+    "y": 607,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 879,
+    "y": 604,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 893,
+    "y": 602,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 905,
+    "y": 596,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 932,
+    "y": 583,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 18
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 945,
+    "y": 573,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 960,
+    "y": 560,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 975,
+    "y": 547,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 985,
+    "y": 534,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 995,
+    "y": 526,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1003,
+    "y": 516,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1008,
+    "y": 509,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1012,
+    "y": 503,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1016,
+    "y": 493,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1020,
+    "y": 479,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1020,
+    "y": 465,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1020,
+    "y": 451,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1020,
+    "y": 440,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1020,
+    "y": 429,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1019,
+    "y": 418,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1017,
+    "y": 406,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1011,
+    "y": 394,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 1007,
+    "y": 385,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 999,
+    "y": 375,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 13
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 991,
+    "y": 365,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 986,
+    "y": 356,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 976,
+    "y": 350,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 2
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 969,
+    "y": 342,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 14
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 966,
+    "y": 338,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 2
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 963,
+    "y": 335,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 958,
+    "y": 332,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 957,
+    "y": 329,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 955,
+    "y": 328,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 953,
+    "y": 325,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 15
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 948,
+    "y": 324,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 942,
+    "y": 322,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 930,
+    "y": 318,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 916,
+    "y": 316,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 907,
+    "y": 314,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 899,
+    "y": 314,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 890,
+    "y": 314,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 886,
+    "y": 314,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 883,
+    "y": 314,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 881,
+    "y": 314,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 880,
+    "y": 315,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 877,
+    "y": 315,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 876,
+    "y": 315,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 872,
+    "y": 317,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 871,
+    "y": 320,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 13
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 866,
+    "y": 322,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 865,
+    "y": 323,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 861,
+    "y": 327,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 3
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 856,
+    "y": 328,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 847,
+    "y": 334,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 843,
+    "y": 337,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 832,
+    "y": 340,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 825,
+    "y": 344,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 818,
+    "y": 349,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 809,
+    "y": 351,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 800,
+    "y": 353,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 792,
+    "y": 354,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 785,
+    "y": 354,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 779,
+    "y": 358,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 773,
+    "y": 359,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 766,
+    "y": 361,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 760,
+    "y": 361,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 754,
+    "y": 361,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 748,
+    "y": 361,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 740,
+    "y": 361,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 733,
+    "y": 360,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 14
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 722,
+    "y": 356,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 2
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 710,
+    "y": 352,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 701,
+    "y": 351,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 694,
+    "y": 345,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 14
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 687,
+    "y": 342,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 2
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 681,
+    "y": 340,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 674,
+    "y": 339,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 23
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 665,
+    "y": 335,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 0
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 654,
+    "y": 333,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 2
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 641,
+    "y": 327,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 632,
+    "y": 323,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 15
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 625,
+    "y": 320,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 1
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 618,
+    "y": 315,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 614,
+    "y": 312,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 607,
+    "y": 307,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 604,
+    "y": 302,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 597,
+    "y": 295,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 590,
+    "y": 288,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 580,
+    "y": 282,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 575,
+    "y": 277,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 571,
+    "y": 272,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 568,
+    "y": 268,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 565,
+    "y": 265,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 563,
+    "y": 260,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 562,
+    "y": 258,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 13
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 562,
+    "y": 253,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 3
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 562,
+    "y": 249,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 14
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 562,
+    "y": 244,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 3
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 562,
+    "y": 238,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 562,
+    "y": 234,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 562,
+    "y": 231,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 564,
+    "y": 227,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 565,
+    "y": 224,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 570,
+    "y": 221,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 19
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 571,
+    "y": 218,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 1
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 574,
+    "y": 215,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 579,
+    "y": 212,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 585,
+    "y": 211,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 588,
+    "y": 208,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 5
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 594,
+    "y": 204,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 10
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 601,
+    "y": 203,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 6
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 607,
+    "y": 201,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 612,
+    "y": 198,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 614,
+    "y": 197,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 11
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 621,
+    "y": 195,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 627,
+    "y": 194,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 12
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 631,
+    "y": 194,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 4
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 636,
+    "y": 192,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 24
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 640,
+    "y": 192,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 0
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 646,
+    "y": 192,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 651,
+    "y": 193,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 0
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 657,
+    "y": 193,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 13
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 662,
+    "y": 196,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 3
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 666,
+    "y": 199,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 675,
+    "y": 202,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 684,
+    "y": 208,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 694,
+    "y": 212,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 701,
+    "y": 219,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 711,
+    "y": 227,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 721,
+    "y": 237,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 728,
+    "y": 244,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 736,
+    "y": 254,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 744,
+    "y": 262,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 749,
+    "y": 269,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 754,
+    "y": 276,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 757,
+    "y": 280,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 759,
+    "y": 287,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 760,
+    "y": 289,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 762,
+    "y": 292,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 763,
+    "y": 297,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 7
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 765,
+    "y": 301,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 766,
+    "y": 304,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 766,
+    "y": 305,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 8
+    }
+  },
+  {
+    "button": 0,
+    "clicks": 1,
+    "x": 767,
+    "y": 305,
+    "type": "mousemove",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 9
+    }
+  },
+  {
+    "shiftKey": false,
+    "altKey": false,
+    "ctrlKey": true,
+    "metaKey": false,
+    "keycode": 29,
+    "rawcode": 162,
+    "type": "keydown",
+    "timeDelay": {
+      "type": "delay",
+      "timeout": 312
+    },
+    "modifier": [
+      "control"
+    ]
+  }
+]
