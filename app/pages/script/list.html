@@ -1,0 +1,11 @@
+<md-list ng-cloak>
+  <md-subheader class="md-no-sticky">List of Automated Scripts :</md-subheader>
+
+  <md-list-item class="secondary-button-padding" ng-repeat="script in vm.scripts">
+    <p>{{ script }} </p>
+    <md-button class="md-secondary" ng-click="vm.runScript(script)">Run</md-button>
+    <md-button class="md-secondary" ng-click="vm.deleteScript(script)">Delete</md-button>
+  </md-list-item>
+
+  <md-divider></md-divider>
+</md-list>

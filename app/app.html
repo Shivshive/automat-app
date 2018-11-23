@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" ng-app="app">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Capture And Automat Your Machine">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Automat App Machine</title>
+  <script src="vendor.js"></script>
+</head>
+
+<body>
+  <md-content class="main-content">
+    <md-toolbar>
+      <div class="md-toolbar-tools">
+
+        <h2 flex md-truncate>Automat App Machine</h2>
+        <span class="fill-empty-space"></span>
+        <md-button aria-label="Go Back" ng-show="$root.showBackButton" ng-click="$root.goBack()">
+          Back
+        </md-button>
+
+      </div>
+    </md-toolbar>
+    <ng-view></ng-view>
+  </md-content>
+
+
+  <script src="app.js"></script>
+</body>
+
+</html>

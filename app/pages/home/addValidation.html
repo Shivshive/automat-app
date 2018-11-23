@@ -1,0 +1,22 @@
+<md-dialog aria-label="Add Validation">
+  <md-dialog-content>
+    <div class="md-dialog-content" style="padding: 0px;user-select: none;">
+      <canvas id="demoCanvas" width="{{size.width}}" height="{{size.height}}" ng-style="style"></canvas>
+
+
+      <!-- <img src="{{imgPath}}" /> -->
+      <!-- <div style="position: absolute;left: 0px;top: 0px;width: 100px;height: 100px;border: 1px solid;resize: both;background: gray;opacity: 0.5;"
+        ng-mousedown="dragStart()" ng-mouseup="dragEnd()" ng-mousemove="dragMove($event);" ng-style="drag">
+
+      </div> -->
+    </div>
+  </md-dialog-content>
+  <md-dialog-actions layout="row">
+    <md-button ng-click="cancel()">
+      Cancel
+    </md-button>
+    <md-button ng-click="validation()">
+      Add Validation
+    </md-button>
+  </md-dialog-actions>
+</md-dialog>

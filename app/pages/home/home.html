@@ -1,0 +1,21 @@
+<div class="home">
+  <div class="center">
+    
+
+  <h1>{{vm.greet}}</h1>
+      <p>
+        Welcome to
+        <a href="#" class="js-external-link">Automat App</a> running on this
+        <strong>{{vm.os}}</strong> machine.
+      </p>
+      <p>
+        App author:
+        <strong>{{vm.author}}</strong>
+      </p>
+
+    <p>
+      <md-button md-no-ink class="md-primary" ng-click="vm.newScript($event)">New Script</md-button>
+      <md-button md-no-ink class="md-primary" ng-click="vm.runScript()">Run Script</md-button>
+    </p>
+  </div>
+</div>
