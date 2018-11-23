@@ -4,7 +4,7 @@
 
 A application for automation testing for desktop tasks, native application functionality, and web application testing.
 
-This is project is build with [Electron](https://electronjs.org), [RobotJS](https://robotjs.io/), iohook, angularJS, Material CSS.
+This is project is build with [Electron](https://electronjs.org), [RobotJS](https://robotjs.io/), [iohook](https://wilix-team.github.io/iohook/), [AngularJS](https://angularjs.org), [Angular Material CSS](https://material.angular.io).
 
 Tested on Windows and Linux.
 
